@@ -8,3 +8,5 @@ The goal of this project is to reduce the power consuption of LoRaWAN and implim
 
 # Requirements
 
+-> GCC
+-> 
