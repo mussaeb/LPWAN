@@ -7,7 +7,11 @@ The focus of this thesis, will be the power consumption and the management of LP
 # Tasks to be done by the MSc candidate:
 
 	Study, analyze and classify IoT and LPWAN networks.
+
 	Explain the power consumption factors of LoRaWAN.
+
 	Explain the basic principles of machine learning, and propose a model.
+
 	Optimize the power consumption of LoRaWAN by reducing the duration of data transmission using machine-learning.
+
 	Compare the use of non-cellular LPWANs to the use of Cellular Networks for IoT applications.
